@@ -1,0 +1,14 @@
+iframe {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+iframe {
+    width: 95%;
+    height: 600px;
+}
+  
+body {
+    background-color: #cdeacc;
+    padding: 20px;
+}
